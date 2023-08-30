@@ -125,7 +125,7 @@
             <p class="property-description">Luxurious 3-bedroom apartment in the city center.</p>
             <p class="property-price">Price: $800,000</p>
         </div>
-        <!-- Add more property cards here -->
+       
     </div>
 
     <footer>
